@@ -2,7 +2,7 @@
 //  Date+Ext.swift
 //  GitHubFollowers
 //
-//  Created by Тагир Аюпов on 2021-06-10.
+//  Created by Tagir Aiupov on 2021-06-10.
 //
 
 import Foundation

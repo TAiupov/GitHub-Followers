@@ -1,9 +1,8 @@
 //
-//  GFRepoItemVC.swift
-//  GHFollowers
+//  GFButton.swift
+//  GitHubFollowers
 //
-//  Created by Sean Allen on 1/24/20.
-//  Copyright © 2020 Sean Allen. All rights reserved.
+//  Created by Tagir Aiupov on 2021-06-01.
 //
 
 import UIKit
