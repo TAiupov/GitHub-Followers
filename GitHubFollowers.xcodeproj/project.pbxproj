@@ -40,6 +40,7 @@
 		CFA0672126698C63000FBF48 /* GFSecondaryTitleLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA0672026698C63000FBF48 /* GFSecondaryTitleLabel.swift */; };
 		CFA067232669915D000FBF48 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA067222669915D000FBF48 /* Constants.swift */; };
 		CFA0672B266BFB1E000FBF48 /* GFItemInfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA0672A266BFB1E000FBF48 /* GFItemInfoView.swift */; };
+		CFCE113826F18B0800340140 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFCE113726F18B0800340140 /* Test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -78,6 +79,7 @@
 		CFA0672026698C63000FBF48 /* GFSecondaryTitleLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GFSecondaryTitleLabel.swift; sourceTree = "<group>"; };
 		CFA067222669915D000FBF48 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		CFA0672A266BFB1E000FBF48 /* GFItemInfoView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GFItemInfoView.swift; sourceTree = "<group>"; };
+		CFCE113726F18B0800340140 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 			children = (
 				CFA0670626681FD8000FBF48 /* NetworkManager.swift */,
 				CF72AC642672A61F00A38C35 /* PersistenceManager.swift */,
+				CFCE113726F18B0800340140 /* Test.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -342,6 +345,7 @@
 				CFA0670226681A5E000FBF48 /* Follower.swift in Sources */,
 				CFA066FE26681A54000FBF48 /* UIViewController+Ext.swift in Sources */,
 				CFA066F626681A3C000FBF48 /* GFTitleLabel.swift in Sources */,
+				CFCE113826F18B0800340140 /* Test.swift in Sources */,
 				CFA066F926681A3C000FBF48 /* GFTextField.swift in Sources */,
 				CFA0671926686BA4000FBF48 /* GFEmptyStateView.swift in Sources */,
 				CFA0672126698C63000FBF48 /* GFSecondaryTitleLabel.swift in Sources */,
