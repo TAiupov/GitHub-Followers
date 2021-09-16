@@ -42,7 +42,7 @@ class new {
                 closeCount: 0,
                 currentString: "",
                 result: &result
-            )
+            ) // laksd
             return result
         }
         
